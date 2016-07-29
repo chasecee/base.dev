@@ -64,7 +64,7 @@ html {
 	-ms-text-size-adjust: 100%;
 }
 
-body {
+body {background: green;
 	margin: 0;
 }
 
@@ -451,7 +451,7 @@ html {
 }
 
 body {
-	background: #1a1a1a;
+	background: gray;
 	/* Fallback for when there is no custom background color defined. */
 }
 
